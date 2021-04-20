@@ -1,2 +1,4 @@
-# iglike
-IG like tool build with ruby 
+```
+Firist ruby project.
+```
+#ruby instagram like bot
